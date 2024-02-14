@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Congratulations Deployed Sucessfully </h1>
+    <h1>Project deployment part1 at VINLINUXTUTORS</h1>
     <p>Please fill in this form to create an account at vinlinuxtutors.</p>
     <hr>
      
