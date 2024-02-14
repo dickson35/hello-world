@@ -15,7 +15,9 @@
     <label for="email"><b>Enter a Valid Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
-
+    <label for="Custom course "><b>Enter your interest </b></label>
+    <input type="text" placeholder="Enter your interest" name="Name" id="Name" required>
+    <br>
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
