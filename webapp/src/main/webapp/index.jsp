@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Project deployment at VINLINUXTUTORS by Dickson Boakye Ameyaw</h1>
-    <p>Please fill in this form to create an account at vinlinuxtutors with dickson.</p>
+    <p>Please fill in this form to create an account with vinlinuxtutors with dickson.</p>
     <hr>
      
     <label for="Name"><b>Please Enter your full Name </b></label>
