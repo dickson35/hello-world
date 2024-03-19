@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account with vinlinuxtutors with dickson.</p>
     <hr>
      
-    <label for="Name"><b>Please Enter your full Name </b></label>
+    <label for="Name"><b>Please Enter your full Name as projected </b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
