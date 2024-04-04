@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Project deployment at VINLINUXTUTORS Practicing By Dickson LLC Enterprise</h1>
-    <p>Please fill in this form to create an account with vinlinuxtutors with Dickson Nana.</p>
+    <p>Please fill in this form to create an account with vinlinuxtutors with Dickson Nana Ama Ampomah.</p>
     <hr>
      
     <label for="Name"><b>Please Enter your full Name as projected </b></label>
