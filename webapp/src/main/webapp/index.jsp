@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Project deployment at VINLINUXTUTORS Practicing By Dickson Transportation </h1>
-    <p>Please fill in this form to create an account with vinlinuxtutors with Dickson & Ampomah.</p>
+    <h1>Project Deployment at VINLINUXTUTORS Practicing how to push a code By Dickson </h1>
+    <p>Please fill in this form to create an account with vinlinuxtutors with Dickson for Practice.</p>
     <hr>
      
     <label for="Name"><b>Please Enter your full Name as projected </b></label>
